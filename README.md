@@ -8,6 +8,18 @@ https://github.com/user-attachments/assets/a959aef2-f345-4c3e-b39b-3da1bce58a4a
 ## 3-🔍 Advanced Filters: 🐕 By animal (type/breed/age/price/size/temperament) | 🛒 By product (category/price/brand) | 🔄 Sort (newest/price/popularity/ratings) | 💾 Save favorites
 ## 4-🎉 Promotions & Ads: 🏆 Featured Products | 🚀 Discount Banners | 🔔 Flash Sale Alerts | 🆕 Weekly New Arrivals
 ## 5-Search Functionality 🔎:🤖 Smart search with auto-complete|⏳ Search history & recent views|📲 Barcode scanning for quick lookup
+## 6-👤 User Profile: Edit personal info 🔧, change password 🔐, contact support 📩, and logout 🚪 – all in one place!
+# 🚀Technological Used
+## 1-Flutter & Dart 🎯:Cross-platform framework for building native-like UIs with hot-reload capability and optimized performance.
+## 2-MVVM Pattern 🏗️:(Model-View-ViewModel) separates logic (ViewModel) from UI (View), ensuring clean code and easier testing.
+## 3-Cubit (State Management) 💡:Lightweight BLoC alternative for predictable state changes, using events and immutable states.
+## 4-SharedPreferences 📦:Local key-value storage for persisting small data (e.g., user settings, login tokens) between app sessions.
+## 5-RESTful APIs 🌐:Secure HTTP endpoints for real-time data sync (pet listings, orders, vet schedules) with backend servers.
+
+
+
+
+
 
 
 
