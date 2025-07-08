@@ -3,7 +3,7 @@
 
 ---
 
-## ✨ **Features at a Glance**  
+## ✨ **Features at a Glance*  
 - 🐶 **Pet Shop**: Adopt furry/scaly/feathered friends  
 - 💊 **Med Mart**: Vaccines & meds at your fingertips  
 - 🔍 **Smart Filters**: Breed/price/size/temperament  
